@@ -1,1 +1,1 @@
-# MATH555E-GitHub
+# MATH-GitHub
